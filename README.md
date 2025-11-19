@@ -7,4 +7,9 @@ Frontend Developer | Web Developer | Software Developer
   Connect with me:
   https://www.linkedin.com/in/fatmasuleimansoftwaredeveloper
 
+ 📊 My GitHub Stats
+
+![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatma-Suleiman&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatma-Suleiman&layout=compact&theme=radical)
 
