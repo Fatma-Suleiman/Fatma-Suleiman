@@ -1,6 +1,6 @@
 # Hi 👋,  I'm Fatma Suleiman
 Frontend Developer | Web Developer | Software Developer
-- 🌱I’m currently learning Nextjs
+- 🌱I’m currently learning TypeScript
 - Ask me about React
 - 📫 How to reach me:fatmasquare71@gmail.com
 
@@ -12,5 +12,5 @@ Frontend Developer | Web Developer | Software Developer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+
 
